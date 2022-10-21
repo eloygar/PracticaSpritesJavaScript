@@ -1,0 +1,20 @@
+
+/* body{
+    align-items: center;
+    position: absolute;
+} */
+canvas {
+    /* background: rgba(198, 199, 131,.5); */
+   /* border: 1px solid wheat; */
+   position: absolute;
+   top: 38%;
+   left: 50%;
+   /* background-image: url(fondo.png); */
+   /* invertir canvas */
+   /* transform: scaleX(-1);  */
+
+}
+
+    /* background: black; */
+    /* background: url(fondo.png) repeat-y repeat-x;
+    background-size: auto; */
