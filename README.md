@@ -1,4 +1,4 @@
-## Aniamtion
+## Animation
 Animations:
 Idle - 9 frames.
 Run - 6 frames.
