@@ -7,8 +7,8 @@ canvas {
     /* background: rgba(198, 199, 131,.5); */
    /* border: 1px solid wheat; */
    position: absolute;
-   top: 38%;
-   left: 50%;
+   top: 1000px;  
+   left: 800px;
    /* background-image: url(fondo.png); */
    /* invertir canvas */
    /* transform: scaleX(-1);  */
